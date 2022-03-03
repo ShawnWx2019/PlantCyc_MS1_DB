@@ -1,0 +1,651 @@
+TERM	NAME	LINK
+PWY-7185	UTP and CTP dephosphorylation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7185
+PWY-6933	seleno-amino acid detoxification and volatilization III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6933
+PWY-1186	L-homomethionine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1186
+PWY-8001	felinine and 3-methyl-3-sulfanylbutan-1-ol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-8001
+PWY-116	coniferin metabolism	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-116
+PWY-5466	matairesinol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5466
+PWY-7618	ricinoleate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7618
+PWY-5340	sulfate activation for sulfonation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5340
+ASPASN-ARA-PWY	superpathway of aspartate and asparagine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPASN-ARA-PWY
+PWYQT-4475	glucosinolate biosynthesis from hexahomomethionine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4475
+PWY-6291	valencene and 7-epi-alpha-selinene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6291
+PWY-1782	superpathway of indole-3-acetate conjugate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1782
+PWY-6502	oxidized GTP and dGTP detoxification	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6502
+PWY-6546	brassinosteroids inactivation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6546
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=BSUBPOLYAMSYN-PWY
+PWY-6982	umbelliferone biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6982
+PWY-6527	stachyose degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6527
+KDOSYN-PWY	Kdo transfer to lipid IVA I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=KDOSYN-PWY
+PWY-5176	coumarin biosynthesis (via 2-coumarate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5176
+PWY-5113	UDP-D-apiose biosynthesis (from UDP-D-glucuronate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5113
+PWY-601	glucosinolate biosynthesis from tryptophan	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-601
+PWY-7039	"phosphatidate metabolism, as a signaling molecule"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7039
+PWY-7224	purine deoxyribonucleosides salvage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7224
+ALACAT2-PWY	L-alanine degradation II (to D-lactate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ALACAT2-PWY
+PWY-5267	glucosinolate activation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5267
+PWY-6754	S-methyl-5'-thioadenosine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6754
+PHOTOALL-PWY	oxygenic photosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PHOTOALL-PWY
+FASYN-ELONG-PWY	fatty acid elongation -- saturated	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=FASYN-ELONG-PWY
+GLYOXYLATE-BYPASS	glyoxylate cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYOXYLATE-BYPASS
+PWY3O-450	phosphatidylcholine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY3O-450
+PWY-6544	superpathway of C28 brassinosteroid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6544
+PWY-6475	trans-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6475
+HISTSYN-PWY	L-histidine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=HISTSYN-PWY
+PWY-8043	ophthalmate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-8043
+PWY-5320	kaempferol glycoside biosynthesis (Arabidopsis)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5320
+PWY-6535	4-aminobutanoate degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6535
+PWY-7229	superpathway of adenosine nucleotides de novo biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7229
+PWY-3481	superpathway of L-phenylalanine and L-tyrosine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3481
+PWY-5864	superpathway of plastoquinol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5864
+PWY-4841	UDP-alpha-D-glucuronate biosynthesis (from myo-inositol)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4841
+PWY-5348	kaempferol triglucoside biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5348
+PWY66-21	ethanol degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY66-21
+PWY-6132	lanosterol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6132
+PWY-7226	guanosine deoxyribonucleotides de novo biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7226
+PWYQT-4482	CDP-diacylglycerol biosynthesis IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4482
+PWY-695	abscisic acid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-695
+PWY-6932	selenate reduction	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6932
+PWY-7250	[2Fe-2S] iron-sulfur cluster biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7250
+PWY18C3-22	methylsalicylate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY18C3-22
+PWY-3801	sucrose degradation II (sucrose synthase)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3801
+PWY-5053	superpathway of gibberellin GA12 biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5053
+GLUGLNSYN-PWY	L-glutamate biosynthesis IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUGLNSYN-PWY
+ARGSYNBSUB-PWY	L-arginine biosynthesis II (acetyl cycle)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARGSYNBSUB-PWY
+PWY-5060	luteolin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5060
+PWY-6787	flavonoid biosynthesis (in equisetum)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6787
+PWY-5172	acetyl-CoA biosynthesis III (from citrate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5172
+PWY-6213	cadmium transport I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6213
+PWY-5871	ubiquinol-9 biosynthesis (eukaryotic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5871
+PWY-5484	glycolysis II (from fructose 6-phosphate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5484
+PWY-6684	aromatic  glucosinolate activation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6684
+PWY-6039	chlorogenic acid biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6039
+PWY-3742	tetrahydrofolate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3742
+PWY-6012	acyl carrier protein metabolism	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6012
+PWY-5063	phytyl diphosphate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5063
+ASPARAGINE-BIOSYNTHESIS	L-asparagine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPARAGINE-BIOSYNTHESIS
+PWY4FS-13	extended VTC2 cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-13
+PWY-7061	glutamate-glutamine shuttle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7061
+DTDPRHAMSYN-PWY	dTDP-L-rhamnose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=DTDPRHAMSYN-PWY
+UDPNACETYLGALSYN-PWY	UDP-N-acetyl-D-glucosamine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=UDPNACETYLGALSYN-PWY
+PWY-6275	beta-caryophyllene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6275
+ARGASEDEG-PWY	L-arginine degradation I (arginase pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARGASEDEG-PWY
+PWY-6792	scopoletin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6792
+PWY-8028	cycloartenol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-8028
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6121
+PWY-6124	inosine-5'-phosphate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6124
+PWY0-1264	biotin-carboxyl carrier protein assembly	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1264
+PWY-7546	diphthamide biosynthesis II (eukaryotes)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7546
+PWY-6898	thiamine salvage III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6898
+PWY-5107	phytol salvage pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5107
+PWY-5934	iron reduction and absorption	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5934
+PWY-6599	guanine and guanosine salvage II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6599
+PWY-6959	L-ascorbate degradation V	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6959
+PWY0-1507	biotin biosynthesis from 8-amino-7-oxononanoate I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1507
+PWY-5690	TCA cycle II (plants and fungi)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5690
+HOMOSER-THRESYN-PWY	L-threonine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=HOMOSER-THRESYN-PWY
+PWY-6064	methylquercetin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6064
+PWY-5783	octaprenyl diphosphate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5783
+PWY-6395	superpathway of seleno-compound metabolism	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6395
+PWY-5034	GA12 biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5034
+PWY-6303	methyl indole-3-acetate interconversion	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6303
+ILEUSYN-PWY	L-isoleucine biosynthesis I (from threonine)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ILEUSYN-PWY
+PWY-4302	aerobic respiration III (alternative oxidase pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4302
+PWY-63	UDP-beta-L-arabinose biosynthesis I (from UDP-alpha-D-xylose)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-63
+PWY-7208	superpathway of pyrimidine nucleobases salvage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7208
+PWY-5481	pyruvate fermentation to (S)-lactate	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5481
+PWY-5661	GDP-glucose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5661
+PWY-702	L-methionine biosynthesis II (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-702
+PWY-5027	phylloquinol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5027
+PWY-5946	delta-carotene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5946
+ALANINE-SYN2-PWY	L-alanine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ALANINE-SYN2-PWY
+PWY-5807	heptaprenyl diphosphate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5807
+PWY-6803	phosphatidylcholine acyl editing	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6803
+PWY-181	photorespiration	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-181
+PWY-5381	pyridine nucleotide cycling (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5381
+PWYQT-4450	"aliphatic glucosinolate biosynthesis, side chain elongation cycle"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4450
+PWY1F-FLAVSYN	flavonoid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY1F-FLAVSYN
+PWY4FS-12	VTC2 cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-12
+PWY-5079	L-phenylalanine degradation III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5079
+HEME-BIOSYNTHESIS-II	heme b biosynthesis I (aerobic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=HEME-BIOSYNTHESIS-II
+PWY-2181	free phenylpropanoid acid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2181
+PWY-5147	oleate biosynthesis I (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5147
+PWY-7901	glucosinolate biosynthesis from tyrosine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7901
+PWY-4221	superpathway of coenzyme A biosynthesis II (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4221
+GLUTAMATE-SYN2-PWY	L-glutamate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUTAMATE-SYN2-PWY
+PWY-5097	L-lysine biosynthesis VI	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5097
+PWY-8024	4-hydroxyindole-3-carbonyl nitrile biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-8024
+PWY-882	L-ascorbate biosynthesis I (L-galactose pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-882
+ARGDEG-V-PWY	L-arginine degradation X (arginine monooxygenase pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARGDEG-V-PWY
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7197
+PWY-6118	glycerol-3-phosphate shuttle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6118
+PWY-1422	vitamin E biosynthesis (tocopherols)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1422
+PWY-5692	allantoin degradation to glyoxylate II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5692
+PWY-6931	seleno-amino acid detoxification and volatilization I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6931
+PWY-6442	spermidine hydroxycinnamic acid conjugates biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6442
+PWY-5115	GDP-L-galactose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5115
+PWYQT-4433	CA1P biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4433
+PWY-7101	5-deoxystrigol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7101
+PWY-6477	gibberellin inactivation II (methylation)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6477
+PWY-6607	guanosine nucleotides degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6607
+PWY-4203	volatile benzenoid biosynthesis I (ester formation)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4203
+PWY-5669	phosphatidylserine and phosphatidylethanolamine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5669
+GLUCONEO-PWY	gluconeogenesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUCONEO-PWY
+PWY-5098	chlorophyll a degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5098
+PWY-5203	soybean saponin I biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5203
+PWY-5659	GDP-mannose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5659
+PWY-6762	salicylate glucosides biosynthesis IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6762
+PWY-5837	"2-carboxy-1,4-naphthoquinol biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5837
+PWY-7206	pyrimidine deoxyribonucleotides dephosphorylation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7206
+PWY-7219	adenosine ribonucleotides de novo biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7219
+TRESYN-PWY	trehalose biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=TRESYN-PWY
+PWY-4821	UDP-alpha-D-xylose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4821
+PWY-5391	syringetin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5391
+PWY-7436	vitamin E biosynthesis (tocotrienols)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7436
+PWY-6936	seleno-amino acid biosynthesis (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6936
+PWY-6234	superpathway of jasmonoyl-amino acid conjugates biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6234
+PWY-6030	serotonin and melatonin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6030
+PWY-7388	"octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7388
+PWY-735	jasmonic acid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-735
+NONMEVIPP-PWY	methylerythritol phosphate pathway I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=NONMEVIPP-PWY
+PWY-5035	gibberellin biosynthesis III (early C-13 hydroxylation)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5035
+PWY-6199	quercetin sulfate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6199
+PWY-8011	L-serine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-8011
+PWY-6736	sulfur volatiles biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6736
+PWY-5366	palmitoleate biosynthesis II (plants and bacteria)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5366
+PWY-5997	alpha-linolenate biosynthesis I (plants and red algae)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5997
+PWY-5691	urate conversion to allantoin I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5691
+PWY-5036	gibberellin biosynthesis II (early C-3 hydroxylation)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5036
+PWY-7071	steviol glucoside biosynthesis (rebaudioside A biosynthesis)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7071
+PWY-4081	glutathione-peroxide redox reactions	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4081
+PWY-2902	cytokinin-O-glucosides biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2902
+PWY-1801	formaldehyde oxidation II (glutathione-dependent)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1801
+PWY-922	mevalonate pathway I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-922
+PWY-2821	glucosinolate biosynthesis from phenylalanine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2821
+PWY-5188	tetrapyrrole biosynthesis I (from glutamate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5188
+PWY-5125	anthocyanin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5125
+HOMOSERSYN-PWY	L-homoserine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=HOMOSERSYN-PWY
+PWY-3041	monoterpene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3041
+PWYQT-4472	glucosinolate biosynthesis from trihomomethionine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4472
+PWY-7238	sucrose biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7238
+GLUTSYNIII-PWY	L-glutamate biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUTSYNIII-PWY
+PWY-5886	4-hydroxyphenylpyruvate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5886
+PWY-4221ARA	superpathway of pantothenate and coenzymeA biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4221ARA
+PWY-7861	L-pipecolate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7861
+PWY-6773	"1,3-beta-D-glucan biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6773
+PWY-2161B	glutamate removal from folates	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2161B
+PWY-401	galactolipid biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-401
+POLYAMINSYN3-PWY	superpathway of polyamine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=POLYAMINSYN3-PWY
+THRESYN-PWY	superpathway of L-threonine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=THRESYN-PWY
+GLUT-REDOX-PWY	glutathione-glutaredoxin redox reactions	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUT-REDOX-PWY
+VALDEG-PWY	L-valine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=VALDEG-PWY
+PWY-5137	"fatty acid beta-oxidation III (unsaturated, odd number)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5137
+PWY-5321	quercetin glycoside biosynthesis (Arabidopsis)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5321
+PWY-5041	S-adenosyl-L-methionine cycle II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5041
+PWY-5905	hypusine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5905
+PWYQT-4471	glucosinolate biosynthesis from dihomomethionine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4471
+PWY-6554	"1D-myo-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6554
+PWY-6577	farnesylcysteine salvage pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6577
+PWY-4041	gamma-glutamyl cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4041
+PWY-6233	jasmonoyl-amino acid conjugates biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6233
+PWY-6663	plant sterol biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6663
+PWY-6051	"2,4,6-trinitrotoluene degradation"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6051
+PWY-6605	adenine and adenosine salvage II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6605
+DETOX1-PWY	superoxide radicals degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=DETOX1-PWY
+PWY-6457	cinnamoyl-CoA biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6457
+PWY-6927	chlorophyll a degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6927
+PWY-801	homocysteine and cysteine interconversion	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-801
+PWY-46	putrescine biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-46
+PWY-7228	superpathway of guanosine nucleotides de novo biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7228
+PWY-5884	wax esters biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5884
+PWY-6717	"(1,4)-beta-D-xylan degradation"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6717
+PWY-6733	sporopollenin precursors biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6733
+PWY-5863	superpathway of phylloquinol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5863
+PWY-5143	long-chain fatty acid activation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5143
+PWY-5271	abscisic acid degradation to phaseic acid	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5271
+PWY-6799	fatty acid biosynthesis (plant mitochondria)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6799
+PWY-6468	omega- hydroxylation of laurate	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6468
+PWY-6910	hydroxymethylpyrimidine salvage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6910
+PWY66-399	gluconeogenesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY66-399
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=NONOXIPENT-PWY
+PWY-83	monolignol glucosides biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-83
+PWY3O-4107	NAD salvage pathway V (PNC V cycle)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY3O-4107
+PWY-5148	acyl-CoA hydrolysis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5148
+PWY-5064	chlorophyll a biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5064
+PWY-6619	adenine and adenosine salvage VI	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6619
+MALATE-ASPARTATE-SHUTTLE-PWY	L-aspartate degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=MALATE-ASPARTATE-SHUTTLE-PWY
+PWY-43	putrescine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-43
+PWY4FS-7	phosphatidylglycerol biosynthesis I (plastidic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-7
+GLYSYN2-PWY	glycine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYSYN2-PWY
+PROSYN-PWY	L-proline biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PROSYN-PWY
+PWY-5052	superpathway of gibberellin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5052
+PWY-283	benzoate degradation II (aerobic and anaerobic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-283
+PWY-6235	hydroxyjasmonate sulfate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6235
+PWY-6040	chlorogenic acid biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6040
+PWY-622	starch biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-622
+PWY4FS-8	phosphatidylglycerol biosynthesis II (non-plastidic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-8
+PWY-6890	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6890
+PWY-5723	Rubisco shunt	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5723
+PWY-6014	vernolate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6014
+PWY-1121	suberin monomers biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1121
+PWY-7560	methylerythritol phosphate pathway II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7560
+PWY-6008	baruol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6008
+PWYQT-4427	sulfoquinovosyl diacylglycerol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4427
+PWY1F-353	glycine betaine biosynthesis III (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY1F-353
+ARG-PRO-PWY	L-arginine degradation VI (arginase 2 pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARG-PRO-PWY
+ASPSYNII-PWY	cyanide detoxification I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPSYNII-PWY
+PWY-3841	folate transformations II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3841
+PWY-5670	epoxysqualene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5670
+CAROTENOID-PWY	superpathway of carotenoid biosynthesis in plants	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CAROTENOID-PWY
+CITRULLINE-DEG-PWY	L-citrulline degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CITRULLINE-DEG-PWY
+PWY-7859	jasmonoyl-L-isoleucine inactivation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7859
+PWY-3881	mannitol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3881
+PWY-1081	homogalacturonan degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1081
+PWY-6115	"avenacin biosynthesis, initial reactions"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6115
+PWY-5269	cardiolipin biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5269
+PWY-2161	folate polyglutamylation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2161
+PWY-1269	CMP-3-deoxy-D-manno-octulosonate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1269
+ARGSPECAT-PWY	spermine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARGSPECAT-PWY
+PWY-6351	"D-myo-inositol (1,4,5)-trisphosphate biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6351
+PWYQT-4429	CO2 fixation into oxaloacetate (anaplerotic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4429
+PWY0-1313	acetate conversion to acetyl-CoA	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1313
+GLYCLEAV-PWY	glycine cleavage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYCLEAV-PWY
+PWY-6441	spermine and spermidine degradation III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6441
+PWY-6806	carotenoid cleavage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6806
+PWY-5973	cis-vaccenate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5973
+PWY4FS-4	phosphatidylcholine biosynthesis IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-4
+PWY-5992	thalianol and derivatives biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5992
+DETOX1-PWY-1	reactive oxygen species degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=DETOX1-PWY-1
+PWY-6266	superpathway of flavones and derivatives biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6266
+PWYQT-62	superpathway of proto- and siroheme biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-62
+PWY-724	"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-724
+PWY-4261	glycerol degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4261
+PWY-5765	"1,3,5-trimethoxybenzene biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5765
+PWY-7200	superpathway of pyrimidine deoxyribonucleoside salvage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7200
+PWY-6219	indole-3-acetate inactivation VIII	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6219
+PWY-561	superpathway of glyoxylate cycle and fatty acid degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-561
+PWY-6952	glycerophosphodiester degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6952
+PWY-1187	glucosinolate biosynthesis from homomethionine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1187
+PWY-1581	plastoquinol-9 biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1581
+BRANCHED-CHAIN-AA-SYN-PWY	superpathway of branched chain amino acid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=BRANCHED-CHAIN-AA-SYN-PWY
+PWY-7232	gibberellin biosynthesis V	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7232
+PWY-6005	marneral biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6005
+PWY-4861	UDP-alpha-D-galacturonate biosynthesis I (from UDP-D-glucuronate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4861
+PWY-5043	purine nucleosides salvage II (plant)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5043
+CYANCAT-PWY	cyanate degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CYANCAT-PWY
+PWY-5725	farnesene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5725
+PWY-5083	NAD/NADH phosphorylation and dephosphorylation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5083
+PWY-84	resveratrol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-84
+PWY-40	putrescine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-40
+PWY-701	L-methionine degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-701
+PWY-6273	phosphatidylethanolamine biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6273
+PWY-7417	"phospholipid remodeling (phosphatidate, yeast)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7417
+PWY-5129	sphingolipid biosynthesis (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5129
+PWY-6845	nitric oxide biosynthesis I (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6845
+PWY-3282	superpathway of ammonia assimilation (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3282
+ILEUDEG-PWY	L-isoleucine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ILEUDEG-PWY
+PWY-7177	UTP and CTP dephosphorylation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7177
+PWY-6466	pyridoxal 5'-phosphate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6466
+PWY-6369	inositol diphosphates biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6369
+PWY-762	phospholipid desaturation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-762
+PWY1F-467	"phenylpropanoid biosynthesis, initial reactions"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY1F-467
+LIPASYN-PWY	phospholipases	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=LIPASYN-PWY
+PWY-6802	salidroside biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6802
+HEXPPSYN-PWY	hexaprenyl diphosphate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=HEXPPSYN-PWY
+SAM-PWY	S-adenosyl-L-methionine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=SAM-PWY
+PWY-7176	UTP and CTP de novo biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7176
+PWY-7416	"phospholipid remodeling (phosphatidylcholine, yeast)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7416
+PWY-1061	homogalacturonan biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1061
+PWY-7346	UDP-alpha-D-glucuronate biosynthesis (from UDP-glucose)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7346
+PWY-6035	"2,3-cis-flavanols biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6035
+PWY-5136	fatty acid beta-oxidation II (peroxisome)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5136
+PWY-6823	molybdenum cofactor biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6823
+PWY-6922	L-Ndelta-acetylornithine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6922
+PWY-6613	"tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6613
+PWY-2501	fatty acid alpha-oxidation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2501
+PWY-3385	choline biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3385
+PWY-6481	L-dopa and L-dopachrome biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6481
+VALSYN-PWY	L-valine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=VALSYN-PWY
+PROUT-PWY	L-proline degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PROUT-PWY
+PWY0-1535	D-serine degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1535
+PWY-3781	aerobic respiration I (cytochrome c)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3781
+PWY-5349	esculetin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5349
+PWY-4983	nitric oxide biosynthesis II (mammals)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4983
+PWY-7047	malate-oxaloacetate shuttle I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7047
+PWY-5407	9-lipoxygenase and 9-allene oxide synthase pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5407
+PWY-7345	superpathway of anaerobic sucrose degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7345
+PWY-7528	L-methionine salvage cycle I (bacteria and plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7528
+PWY-5918	superpathay of heme b biosynthesis from glutamate	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5918
+LEU-DEG2-PWY	L-leucine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=LEU-DEG2-PWY
+PWY-5441	S-methyl-L-methionine cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5441
+PWY-6305	putrescine biosynthesis IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6305
+PWY-7468	benzoyl-beta-D-glucopyranose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7468
+PWY-5486	pyruvate fermentation to ethanol II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5486
+PWY-5805	nonaprenyl diphosphate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5805
+PWY-7856	heme a biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7856
+PWY-4381	fatty acid biosynthesis initiation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4381
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-166
+PWY-5313	superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5313
+ASPARAGINE-DEG1-PWY	L-asparagine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPARAGINE-DEG1-PWY
+PWY-3261	UDP-beta-L-rhamnose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3261
+PWY-6520	nonaprenyl diphosphate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6520
+PWY-7067	betulinate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7067
+PWY-5152	leucodelphinidin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5152
+PWY-5173	superpathway of acetyl-CoA biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5173
+PWYQT-4449	polyisoprenoid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4449
+PWY-5068	chlorophyll cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5068
+PWY0-1319	CDP-diacylglycerol biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1319
+PWY-6745	phytochelatins biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6745
+PWY-5122	geranyl diphosphate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5122
+PWY1F-823	leucopelargonidin and leucocyanidin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY1F-823
+PWY-2724	alkane oxidation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2724
+PWY-5409	divinyl ether biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5409
+PWY-699	brassinosteroid biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-699
+LYSINE-DEG2-PWY	lysine degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=LYSINE-DEG2-PWY
+PWY-4661	1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4661
+PWY-2681	trans-zeatin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2681
+PWY-6317	D-galactose degradation I (Leloir pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6317
+PWY-1881	formate oxidation to CO2	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1881
+PWY-6938	NADH repair	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6938
+PWY-5390	rutin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5390
+PWY-6163	chorismate biosynthesis from 3-dehydroquinate	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6163
+PENTOSE-P-PWY	pentose phosphate pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PENTOSE-P-PWY
+PWY-3941	beta-alanine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3941
+PWY-2901	cytokinins 9-N-glucoside biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2901
+CAMALEXIN-SYN	camalexin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CAMALEXIN-SYN
+PHOSLIPSYN2-PWY	superpathway of phospholipid biosynthesis II (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PHOSLIPSYN2-PWY
+PWY490-4	L-asparagine biosynthesis III (tRNA-dependent)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY490-4
+PWY-5944	zeaxanthin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5944
+PWY4FS-3	phosphatidylcholine biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-3
+SERSYN-PWY	L-serine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=SERSYN-PWY
+PWY-4702	phytate degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4702
+PWY-6801	volatile esters biosynthesis (during fruit ripening)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6801
+PWY-6668	"(E,E)-4,8,12-trimethyltrideca-1,3,7,11-tetraene biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6668
+PWY-6348	phosphate acquisition	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6348
+ASPARAGINESYN-PWY	L-asparagine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPARAGINESYN-PWY
+PWY-6935	seleno-amino acid detoxification and volatilization II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6935
+PWY-1042	glycolysis IV (plant cytosol)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1042
+ASPARTATE-DEG1-PWY	L-aspartate degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPARTATE-DEG1-PWY
+PWY-4562	"lipid-dependent phytate biosynthesis II (via Ins(1,3,4)P3)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4562
+PWYQT-4481	TCA cycle variation V (plant)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4481
+PWY-6364	"D-myo-inositol (1,3,4)-trisphosphate biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6364
+PWY-5160	rose anthocyanin biosynthesis I (via cyanidin 5-O-beta-D-glucoside)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5160
+PWY-6239	luteolin glycosides biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6239
+HOMOCYSDEGR-PWY	L-cysteine biosynthesis III (from L-homocysteine)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=HOMOCYSDEGR-PWY
+PWY-6443	"benzoate biosynthesis I (CoA-dependent, beta-oxidative)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6443
+PWY0A-6303	methyl indole-3-acetate interconversion	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0A-6303
+PWY-6444	"benzoate biosynthesis II (CoA-independent, non-beta-oxidative)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6444
+PWY-6614	tetrahydrofolate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6614
+PWY-5111	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5111
+PWY4FS-5	superpathway of phosphatidylcholine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-5
+PWY-6446	"benzoate biosynthesis III (CoA-dependent, non-beta-oxidative)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6446
+PWY-7625	phosphatidylinositol biosynthesis II (eukaryotes)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7625
+PWY-7640	abscisic acid degradation to neophaseic acid	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7640
+PWY0-461	L-lysine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-461
+PWY-6624	salicylate glucosides biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6624
+PWY-1741	indole-3-acetate inactivation IX	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1741
+GLYOXDEG-PWY	glycolate and glyoxylate degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYOXDEG-PWY
+PWY-7221	guanosine ribonucleotides de novo biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7221
+PWY-5936	xyloglucan biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5936
+PWY-7343	UDP-alpha-D-glucose biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7343
+PWY-2	putrescine degradation IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2
+PWY-581	indole-3-acetate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-581
+PWY-101	photosynthesis light reactions	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-101
+PWY-5343	ajugose biosynthesis II (galactinol-independent)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5343
+PWY-7432	"L-phenylalanine biosynthesis III (cytosolic, plants)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7432
+PWY-1722	"formate assimilation into 5,10-methylenetetrahydrofolate"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1722
+PWY-6612	superpathway of tetrahydrofolate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6612
+PWY-5963	thio-molybdenum cofactor biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5963
+PWY-6606	guanosine nucleotides degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6606
+GLYSYN-PWY	glycine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYSYN-PWY
+PWY-6137	copper transport II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6137
+THIOREDOX-PWY	thioredoxin pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=THIOREDOX-PWY
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PLPSAL-PWY
+PWY-3561	choline biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3561
+PWY-6804	diacylglycerol biosynthesis (PUFA enrichment in oilseed)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6804
+PWY-7170	phytochromobilin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7170
+PWY-5971	palmitate biosynthesis II (bacteria and plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5971
+PWY-2261	ascorbate glutathione cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2261
+PWY-4341	L-glutamate biosynthesis V	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4341
+PWY-5138	"unsaturated, even numbered fatty acid beta-oxidation"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5138
+PWY-6430	thymine degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6430
+PWY-2602	brassinosteroid biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2602
+PWY-6352	3-phosphoinositide biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6352
+PWY-7187	pyrimidine deoxyribonucleotides de novo biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7187
+GLYSYN-ALA-PWY	glycine biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYSYN-ALA-PWY
+RIBOSYN2-PWY	flavin biosynthesis I (bacteria and plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=RIBOSYN2-PWY
+PWY-5326	sulfite oxidation IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5326
+PWY-5120	geranylgeranyl diphosphate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5120
+PWY4FS-11	L-ascorbate biosynthesis II (L-gulose pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-11
+PWY-5044	purine nucleotides degradation I (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5044
+PWY-6825	phosphatidylcholine biosynthesis V	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6825
+PWY-4021	beta-alanine betaine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4021
+PWY-7356	thiamine salvage IV (yeast)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7356
+LIPAS-PWY	triacylglycerol degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=LIPAS-PWY
+PWY-5640	nitrobenzene degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5640
+PWY-5697	allantoin degradation to ureidoglycolate I (urea producing)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5697
+PWY-102	gibberellin inactivation I (2beta-hydroxylation)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-102
+PWY-5086	chlorophyll a biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5086
+PWY-5433	superpathway of lipoxygenase	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5433
+PWY-5386	methylglyoxal degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5386
+PWY-5698	allantoin degradation to ureidoglycolate II (ammonia producing)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5698
+PWY-4762	superpathway of choline biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4762
+PWY-5800	xylan biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5800
+ALANINE-DEG3-PWY	L-alanine degradation III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ALANINE-DEG3-PWY
+ARO-PWY	chorismate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARO-PWY
+PWYQT-4476	indole glucosinolate activation (herbivore attack)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4476
+PWY-6287	neurosporene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6287
+MANNCAT-PWY	D-mannose degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=MANNCAT-PWY
+TYRFUMCAT-PWY	L-tyrosine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=TYRFUMCAT-PWY
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=TRIGLSYN-PWY
+PWY-6618	guanine and guanosine salvage III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6618
+PWYQT-4470	gamma-glutamyl cycle (plant pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4470
+PWY-7205	CMP phosphorylation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7205
+PWY-5704	urea degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5704
+GLUTAMATE-DEG1-PWY	L-glutamate degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUTAMATE-DEG1-PWY
+PWY-6220	jasmonoyl-amino acid conjugates biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6220
+PYRIDNUCSYN-PWY	NAD de novo biosynthesis I (from aspartate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PYRIDNUCSYN-PWY
+CHLOROPHYLL-SYN	"3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CHLOROPHYLL-SYN
+PWY-5342	ajugose biosynthesis I (galactinol-dependent)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5342
+PWY-5272	abscisic acid degradation by glucosylation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5272
+PWY0-662	PRPP biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-662
+PWY-5868	simple coumarins biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5868
+PWY-5123	"trans, trans-farnesyl diphosphate biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5123
+PWY-7398	coumarins biosynthesis (engineered)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7398
+SULFMETII-PWY	assimilatory sulfate reduction II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=SULFMETII-PWY
+PWY-6707	gallate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6707
+PYRUVDEHYD-PWY	pyruvate decarboxylation to acetyl CoA	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PYRUVDEHYD-PWY
+PWY-5070	"gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5070
+PWY-5142	acyl-[acyl-carrier protein] thioesterase pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5142
+PWYDQC-4	indole-3-acetate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYDQC-4
+PWY-5945	"violaxanthin, antheraxanthin and zeaxanthin interconversion"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5945
+TRPSYN-PWY	L-tryptophan biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=TRPSYN-PWY
+PWY-5667	CDP-diacylglycerol biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5667
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLYCOLYSIS
+PWY-5921	glutaminyl-tRNAgln biosynthesis via transamidation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5921
+PWY-5268	salvianin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5268
+URDEGR-PWY	superpathway of allantoin degradation in plants	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=URDEGR-PWY
+PWY-7196	superpathway of pyrimidine ribonucleosides salvage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7196
+PWY-6483	ceramide degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6483
+PWY-5464	"superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5464
+PWY-282	cuticular wax biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-282
+PWY-7048	malate-oxaloacetate shuttle II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7048
+PWY-6902	chitin degradation II (Vibrio)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6902
+PWY-5434	"(3E)-4,8-dimethylnona-1,3,7-triene biosynthesis I"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5434
+PWY-5350	thiosulfate disproportionation IV (rhodanese)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5350
+PWY-6367	D-myo-inositol-5-phosphate metabolism	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6367
+CITRULBIO-PWY	L-citrulline biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CITRULBIO-PWY
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch) I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=OXIDATIVEPENT-PWY
+PWYQT-4466	superpathway of sucrose and starch metabolism I (non-photosynthetic tissue)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4466
+PWY-2841	cytokinins degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2841
+PWY4FS-2	phosphatidylcholine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-2
+PWY-6930	phenolic malonylglucosides biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6930
+PWY0-501	lipoate biosynthesis and incorporation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-501
+PWY-5285	sulfide oxidation III (persulfide dioxygenase)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5285
+ETOH-ACETYLCOA-ANA-PWY	ethanol degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ETOH-ACETYLCOA-ANA-PWY
+PWYQT-4473	glucosinolate biosynthesis from tetrahomomethionine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4473
+PWYQT-4432	glutathione degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4432
+PWY-5084	2-oxoglutarate decarboxylation to succinyl-CoA	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5084
+PWY-2021	indole-3-acetate inactivation IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2021
+PWY-6837	"fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6837
+PWY-5121	superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5121
+PWY-5530	sorbitol biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5530
+PWY-621	sucrose degradation III (sucrose invertase)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-621
+PWY-5995	linoleate biosynthesis I (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5995
+PWY-7183	pyrimidine nucleobases salvage I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7183
+PWY-5986	ammonium transport	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5986
+PWY-5194	siroheme biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5194
+PWY-6333	acetaldehyde biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6333
+PWY-6498	eumelanin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6498
+PWY-2781	cis-zeatin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2781
+PWY-2582	brassinosteroid biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2582
+PWY-3462	L-phenylalanine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3462
+PWY-3982	uracil degradation I (reductive)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3982
+PWY-5791	"1,4-dihydroxy-2-naphthoate biosynthesis II (plants)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5791
+PWY-6549	L-glutamine biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6549
+PWY-2881	cytokinins 7-N-glucoside biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2881
+PWY-5080	very long chain fatty acid biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5080
+PWY-7590	"(7Z,10Z,13Z)-hexadecatrienoate biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7590
+COA-PWY	coenzyme A biosynthesis I (prokaryotic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=COA-PWY
+PWY-1822	indole-3-acetate activation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1822
+PWY-6908	thiamine diphosphate biosynthesis IV (eukaryotes)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6908
+PWY-361	phenylpropanoid biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-361
+PWY-5377	alpha-amyrin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5377
+ETHYL-PWY	ethylene biosynthesis I (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ETHYL-PWY
+PWY-6595	superpathway of guanosine nucleotides degradation (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6595
+PWY-6066	IAA biosynthesis VII	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6066
+PWY-782	glycolipid desaturation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-782
+PWY-6363	"D-myo-inositol (1,4,5)-trisphosphate degradation"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6363
+THISYNARA-PWY	superpathway of thiamine diphosphate biosynthesis III (eukaryotes)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=THISYNARA-PWY
+PWY-6666	pyocyanin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6666
+PWY66-423	"fructose 2,6-bisphosphate biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY66-423
+PWY-6458	benzoyl-CoA biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6458
+PWY-7270	L-methionine salvage cycle II (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7270
+PWY-66	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-66
+PWY-5910	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5910
+PWYQT-4477	indole glucosinolate activation (intact plant cell)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4477
+PWY-4361	S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4361
+GLUTATHIONESYN-PWY	glutathione biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUTATHIONESYN-PWY
+PWY-6673	caffeoylglucarate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6673
+ARGSYN-PWY	L-arginine biosynthesis I (via L-ornithine)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARGSYN-PWY
+PWY-6007	"(3E)-4,8-dimethylnona-1,3,7-triene biosynthesis II"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6007
+PWY-3341	L-proline biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3341
+PWY0-1182	trehalose degradation II (cytosolic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1182
+PWY-6473	4-aminobutanoate degradation IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6473
+NAGLIPASYN-PWY	lipid IVA biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=NAGLIPASYN-PWY
+PWY-321	cutin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-321
+PWY-1001	cellulose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-1001
+PWY-5686	UMP biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5686
+PWY-7227	adenosine deoxyribonucleotides de novo biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7227
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=SUCSYN-PWY
+PWY-6196	D-serine metabolism	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6196
+PWY-82	UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-82
+PWY-5287	sanguinarine and macarpine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5287
+PWY-5156	superpathway of fatty acid biosynthesis II (plant)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5156
+PWY-6019	pseudouridine degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6019
+PWY-2301	myo-inositol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2301
+PWY-5453	methylglyoxal degradation III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5453
+PWYQT-4445	pyrimidine salvage pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4445
+PWY-7985	oxalate degradation VI	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7985
+PWY-641	proanthocyanidins biosynthesis from flavanols	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-641
+PWY-7186	superpathway of scopolin and esculin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7186
+PWY-7634	vernolate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7634
+PWY-7068	ursolate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7068
+PWY-5410	traumatin and (Z)-3-hexen-1-yl acetate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5410
+P165-PWY	superpathway of purines degradation in plants	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=P165-PWY
+PWY-5968	cinnamate esters biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5968
+CALVIN-PWY	Calvin-Benson-Bassham cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CALVIN-PWY
+PWY0-1021	L-alanine biosynthesis III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1021
+ASPARTATESYN-PWY	L-aspartate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ASPARTATESYN-PWY
+PWY-4321	L-glutamate degradation IV	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4321
+PWY-2161B-PMN	folate polyglutamylation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2161B-PMN
+PWY-5114	UDP-sugars interconversion	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5114
+PWY0-162	superpathway of pyrimidine ribonucleotides de novo biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-162
+PANTO-PWY	phosphopantothenate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PANTO-PWY
+XYLCAT-PWY	D-xylose degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=XYLCAT-PWY
+GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUCOSE1PMETAB-PWY
+GLUTAMINDEG-PWY	L-glutamine degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUTAMINDEG-PWY
+PWY-6710	poly-hydroxy fatty acids biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6710
+PWY0-1325	superpathway of L-asparagine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY0-1325
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	protein N-glycosylation initial phase (eukaryotic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS
+PWY-5337	stachyose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5337
+PWY-5032	ent-kaurene biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5032
+PWY-5049	rosmarinic acid biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5049
+P401-PWY	cyanide degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=P401-PWY
+PWY-3981	beta-alanine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3981
+PWY-7193	pyrimidine ribonucleosides salvage I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7193
+COMPLETE-ARO-ARA-PWY	"superpathway of phenylalanine, tyrosine and tryptophan biosynthesis"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=COMPLETE-ARO-ARA-PWY
+PWY-3301	sinapate ester biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3301
+PWY-6406	salicylate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6406
+PWY-6842	glutathione-mediated detoxification II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6842
+PWY-2541	phytosterol biosynthesis (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-2541
+PWY-7184	pyrimidine deoxyribonucleotides de novo biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7184
+PWY-6809	neoxanthin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6809
+PWY-7211	superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7211
+PWY-7140	myricetin gentiobioside biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7140
+PWY-7267	anthocyanin biosynthesis (pelargonidin 3-O-glucoside)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7267
+PWY-4	UDP-alpha-D-galacturonate biosynthesis II (from D-galacturonate)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4
+PWY-5788	indole-3-acetate inactivation V	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5788
+PWY-381	nitrate reduction II (assimilatory)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-381
+PWY-7060	ornithine-citrulline shuttle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7060
+PWYQT-4474	glucosinolate biosynthesis from pentahomomethionine	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-4474
+PWY-6543	4-aminobenzoate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6543
+PWY-5980	xylogalacturonan biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5980
+PWY-6424	"26,27-dehydrozymosterol metabolism"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6424
+PWY-6724	starch degradation II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6724
+PWY-6964	ammonia assimilation cycle II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6964
+PWY-3181	L-tryptophan degradation VI (via tryptamine)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3181
+PWY-7344	UDP-alpha-D-galactose biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7344
+CYSTSYN-PWY	L-cysteine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=CYSTSYN-PWY
+GLUTORN-PWY	L-ornithine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLUTORN-PWY
+PWY-5004	superpathway of L-citrulline metabolism	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5004
+PWY-7199	pyrimidine deoxyribonucleosides salvage	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7199
+PWY-6909	thiazole biosynthesis III (eukaryotes)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6909
+PWY-981	salicylate biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-981
+PWY-4101	D-sorbitol degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4101
+PWY-5687	pyrimidine ribonucleotides interconversion	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5687
+PWY-3101	flavonol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3101
+PWY-3542	choline biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3542
+PWY-6	GDP-L-fucose biosynthesis II (from L-fucose)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6
+PWY-7909	formaldehyde oxidation VII (THF pathway)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7909
+PWY-7450	anthocyanidin modification (Arabidopsis)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7450
+PWY-3821	D-galactose detoxification	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3821
+PWY18C3-24	methylsalicylate degradation	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY18C3-24
+GLNSYN-PWY	L-glutamine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=GLNSYN-PWY
+PWY-4541	"lipid-dependent phytate biosynthesis I (via Ins(1,4,5)P3)"	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4541
+PWY-6623	salicylate glucosides biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6623
+PWY-3001	superpathway of L-isoleucine biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3001
+ARGININE-SYN4-PWY	L-ornithine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=ARGININE-SYN4-PWY
+PWY-6786	detoxification of reactive carbonyls in chloroplasts	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6786
+PWY-5957	L-nicotianamine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5957
+PWY-6164	3-dehydroquinate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6164
+PWYQT-1	lysine degradation III	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWYQT-1
+PWY-6232	chrysoeriol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6232
+METHIONINE-DEG1-PWY	L-methionine degradation I (to L-homocysteine)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=METHIONINE-DEG1-PWY
+PWY4FS-6	phosphatidylethanolamine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY4FS-6
+PWY-4984	urea cycle	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-4984
+PWY-3461	L-tyrosine biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3461
+PWY-5947	lutein biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5947
+PWY-6295	olivetol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6295
+PWY-6304	casbene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6304
+PWY-5168	ferulate and sinapate biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5168
+PWY-7120	esterified suberin biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7120
+PWY-112	lupeol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-112
+PWY-7851	coenzyme A biosynthesis II (eukaryotic)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7851
+PWY-5408	9-lipoxygenase and 9-hydroperoxide lyase pathway	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5408
+PWY-5859	eugenol and isoeugenol biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5859
+PWY-7204	pyridoxal 5'-phosphate salvage II (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7204
+PWY-6147	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6147
+PWY-6556	pyrimidine ribonucleosides salvage II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6556
+PWY-5943	beta-carotene biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5943
+PWY-5989	stearate biosynthesis II (bacteria and plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5989
+PWY-5046	2-oxoisovalerate decarboxylation to isobutanoyl-CoA	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5046
+LEUSYN-PWY	L-leucine biosynthesis	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=LEUSYN-PWY
+PWY-841	superpathway of purine nucleotides de novo biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-841
+PWY-6963	ammonia assimilation cycle I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6963
+PWY-3221	dTDP-L-rhamnose biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-3221
+PWY-7036	very long chain fatty acid biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-7036
+PWY-5406	divinyl ether biosynthesis I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-5406
+PWY-6730	methylhalides biosynthesis (plants)	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6730
+PWY-6122	5-aminoimidazole ribonucleotide biosynthesis II	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6122
+PWY-6596	adenosine nucleotides degradation I	HTTP://localhost:1555/ARA/NEW-IMAGE?type=PATHWAY&object=PWY-6596

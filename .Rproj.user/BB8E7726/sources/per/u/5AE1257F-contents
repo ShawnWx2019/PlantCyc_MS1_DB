@@ -1,0 +1,30 @@
+##############################################
+#       Prj: untarget-metabo
+#       Assignment: Plantcyc MS1 database
+#       Author: Shawn Wang
+#       Date: Feb 14,2021
+##############################################
+options(stringsAsFactors = F)
+## plant db
+library(tidyverse)
+
+raw_file = plant_path
+make_ms1_db = function(raw_file) {
+  x_raw = read.delim(raw_file,sep = "\t",header = T,quote = NULL) %>% 
+    rename(
+      "Plant_Cyc_CID" = "Compound_id",
+      "Compound_name" = "Compound_common_name",
+      "MW" = "Molecular_weight",
+      "MF" = "Chemical_formula"
+    )
+  return(x_raw)
+}
+
+plant_path = "01.RawDB/plant_compounds.20210325.txt"
+maize_path = "01.RawDB/corn_compounds.20210325.txt"
+ath_path = "01.RawDB/ara_compounds.20210325.txt"
+plant_cyc_MS1 = make_ms1_db(plant_path)
+maize_cyc_MS1 = make_ms1_db(maize_path)
+ath_cyc_MS1 = make_ms1_db(ath_path)
+
+save(ath_cyc_MS1,maize_cyc_MS1,plant_cyc_MS1,file = "zhanglab_commonUsed_MS1.db")
